@@ -1,0 +1,7 @@
+output.log
+__pycache__
+.pylint.d
+src/__pycache__
+src/lib/__pycache__
+src/lib/customized_requests/__pycache__
+geckodriver.log

@@ -1,0 +1,11 @@
+requests==2.24.0
+python_telegram_bot==13.1
+webdriver_manager==3.4.2
+selenium==3.141.0
+pandas==1.2.4
+random_user_agent==1.0.1
+pytest==6.2.3
+Flask==1.1.2
+lxml==4.6.3
+beautifulsoup4==4.9.3
+telegram==0.0.1
